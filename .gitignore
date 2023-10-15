@@ -1,0 +1,9 @@
+api_keys.env
+config.ini
+secrets/
+.env
+.env.local
+.env.development
+*.secret
+*.key
+.git/config
